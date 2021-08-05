@@ -1,6 +1,25 @@
 {
-  "login_page": {
-    "get_started": "Starten",
-    "login": "Anmelden"
-  }
+    "login_page": {
+        "get_started": "Starten",
+        "login": "Anmelden",
+        "description": "-empty-"
+    },
+    "printer_selection": {
+        "loading": "Drucker laden",
+        "print_in_progress": "Druck in Arbeit",
+        "print": "Drucken",
+        "printer": "Drucker",
+        "color": "Farbe",
+        "orientation": "Orientierung",
+        "size": "Größe",
+        "select_printer": "Wählen Sie einen Drucker",
+        "select_color": "Wählen Sie eine Farbe",
+        "select_orientation": "Ausrichtung wählen",
+        "select_size": "Wählen Sie eine Größe"
+    },
+    "button_actions": {
+        "login": "Anmeldung",
+        "print": "Drucken",
+        "cancel": "Abbrechen"
+    }
 }
