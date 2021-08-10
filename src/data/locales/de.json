@@ -18,7 +18,7 @@
         "select_size": "Wählen Sie eine Größe"
     },
     "button_actions": {
-        "login": "Anmeldung",
+        "login": "Login",
         "print": "Drucken",
         "cancel": "Abbrechen"
     }
