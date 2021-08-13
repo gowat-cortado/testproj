@@ -5,7 +5,7 @@
         "description": "-empty-"
     },
     "printer_selection": {
-        "loading": "Drucker laden",
+        "loading": "Test: Drucker laden",
         "print_in_progress": "Druck in Arbeit",
         "print": "Drucken",
         "printer": "Drucker",
