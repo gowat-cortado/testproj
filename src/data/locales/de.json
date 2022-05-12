@@ -2,7 +2,7 @@
     "login_page": {
         "get_started": "Los gehts",
         "login": "Test: Anmelden",
-        "description": "-empty-"
+        "description": "leer"
     },
     "printer_selection": {
         "loading": "Test: Drucker laden",
